@@ -1,0 +1,30 @@
+#board,
+#answer
+{
+  width: 600px;
+  height: 600px;
+  overflow: hidden;
+  border: 2px solid black;
+  position: absolute;
+}
+
+#board
+{
+  top: 0;
+  left: 0;
+}
+
+#answer
+{
+  top: 0;
+  left: 650px;
+  background: url("../img/tiger.jpg");
+}
+
+.piece
+{
+  width: 150px;
+  height: 150px;
+  border: 1px solid black;
+  position: absolute;
+}
