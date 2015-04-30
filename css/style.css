@@ -33,3 +33,10 @@
 {
   border: none;
 }
+
+#stat-container
+{
+  position: absolute;
+  top: 600px;
+  padding: 10px;
+}
